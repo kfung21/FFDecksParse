@@ -16,6 +16,6 @@ Elements:
      * {c} crystal 
   * Text:
      * Stars (*) for bold
-  * Italic
+     * Tilde (~) for italic
   * %Special Orange%
      * Damage and warp character: ―
